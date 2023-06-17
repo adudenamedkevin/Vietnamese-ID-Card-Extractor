@@ -21,3 +21,10 @@ pip install -r requirements.txt
 ```
 
 ## Demo
+Input image:
+
+![](https://github.com/adudenamedkevin/Vietnamese-ID-Card-Extractor/blob/main/test1.jpg)
+
+Output image:
+
+![](https://github.com/adudenamedkevin/Vietnamese-ID-Card-Extractor/blob/main/output_test1.jpg)
