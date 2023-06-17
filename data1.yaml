@@ -1,0 +1,14 @@
+path: /content/gdrive/My Drive/PBL3/vn_id_extractor/data1
+train: images/train
+val: images/train
+
+# connect
+names:
+  0: CCCD
+  1: no.
+  2: fullname
+  3: dateofbirth
+  4: sex
+  5: nationality
+  6: placeoforigin
+  7: placeofresidence
