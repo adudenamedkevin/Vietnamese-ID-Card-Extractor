@@ -11,7 +11,7 @@ This prototype helps to extract information from Vietnamese chip-based ID card i
 4. Clone this repository by typing this in the Terminal:
 
 ```python
-git clone https://github.com/sktt1anhhuy/smartParkingwithANPR_website.git
+git clone https://github.com/adudenamedkevin/Vietnamese-ID-Card-Extractor.git
 ```
 
 5. Install the required libraries by typing this in the Terminal:
